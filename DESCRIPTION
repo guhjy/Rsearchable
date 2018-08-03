@@ -1,0 +1,11 @@
+Package: Rsearchable
+Type: Package
+Title: Searchable lists
+Version: 0.3.0
+Author: Marcello Gallucci
+Maintainer: Marcello Gallucci <mcfanda@gmail.com>
+Description: Defines a searchable list with options
+License: GPL-2, GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
